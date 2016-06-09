@@ -1,2 +1,4 @@
 # Hello-world
-just, another repository
+Hi Humans;
+I like sports and reading novel.
+I had made many friends and we are good enough!.
